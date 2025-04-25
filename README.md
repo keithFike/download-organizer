@@ -1,2 +1,2 @@
 # download-organizer
-organizes downloads folder
+Organizes downloads folder into extension-based folders
